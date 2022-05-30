@@ -6,6 +6,6 @@
 				var result = document.getElementById('result');
 				result.value =  value*value;
 			} else {
-				alert('Введено не число!')
+				alert('Введено не число!!')
 			}
 		}
